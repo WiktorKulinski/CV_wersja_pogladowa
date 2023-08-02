@@ -1,0 +1,39 @@
+body {
+    background: #e4d6d6;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    height: 100vh;
+    display: grind;
+    justify-items: center;
+    align-items: center;
+}
+
+.descryption {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 900px;
+    background: #fff;
+    margin: auto;
+    padding: auto;
+    box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.10);
+    justify-content: center;
+}
+
+.skill-label{
+    background: #1E2939;
+    color: white;
+}
+
+.skill{
+    padding: 20px;
+    margin: 0px;
+}
+
+main{
+    margin: 30px;
+}
